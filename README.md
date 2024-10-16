@@ -1,10 +1,10 @@
 # My End-to-End Azure Data Pipeline using ADF, Synapse, Databricks, and Power BI
 
 <h2>Introduction</h2>
-test
+This is my first data engineering-related project and has gotten me familiar with the layout and procedures for using Azure. Most of my time spent was either debugging Python on Databricks or assigning the right access to users/entities.
 
 <h2>Summary</h2>
-test1
+Built an ELT (Extract, Transform, Load) pipeline drawing from an on-premise SQL Server Database through the Azure ecosystem then visualized through Power BI. I obtained a sample business sales dataset (AdventureWorksLT2022) from Microsoft’s website and forum to use for this project.
  
 
 
